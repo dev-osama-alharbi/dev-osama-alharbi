@@ -12,7 +12,3 @@
 - [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)](https://skillicons.dev)
 
 
-
-##  Stats [Github - Wakatime]
-
-![Osama GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dev-osama-alharbi&show_icons=true&theme=nord&count_private=true)
